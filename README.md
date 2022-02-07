@@ -1,2 +1,2 @@
 # hola-mundo
-mi primer código
+mi primer repositorio
